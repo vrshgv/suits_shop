@@ -1,0 +1,115 @@
+{
+  "products": [
+    {
+      "id": 12,
+      "sku": 12064273040195392,
+      "title": "Tom Ford Classic Suit",
+      "description": "Wool",
+      "availableSizes": ["S", "XS"],
+      "style": "Classic black and white",
+      "price": 475,
+      "installments": 2,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 13,
+      "sku": 51498472915966366,
+      "title": "Blueberry White Suit",
+      "description": "",
+      "availableSizes": ["M"],
+      "style": "Absolute Pearly Style",
+      "price": 529.45,
+      "installments": 3,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 14,
+      "sku": 10686354557628303,
+      "title": "Dolce Grey Blazer and Pants",
+      "description": "Wool",
+      "availableSizes": ["M", "L", "XL"],
+      "style": "Long Sleeve Jacket with Shirt",
+      "price": 368.0,
+      "installments": 2,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 15,
+      "sku": 11033926921508487,
+      "title": "Brioni Italian Suit",
+      "description": "Wool, Cashmere",
+      "availableSizes": ["L", "XL", "XXL"],
+      "style": "Pants, Shirt and Elegant Blazer",
+      "price": 684.0,
+      "installments": 5,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 11,
+      "sku": 39876704341265606,
+      "title": "Boss Grace Slim Pants",
+      "description": "Twid, Wool",
+      "availableSizes": ["X", "L"],
+      "style": "Classic Ankle Pants",
+      "price": 213.25,
+      "installments": 3,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 16,
+      "sku": 10412368723880253,
+      "title": "T.M Lewin White Shirt",
+      "description": "Cotton",
+      "availableSizes": ["XS", "X", "L", "ML", "XL"],
+      "style": "Pearly White Elegance",
+      "price": 175.0,
+      "installments": 5,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 0,
+      "sku": 8552515751438644,
+      "title": "Del France Shoes",
+      "description": "Glance Black",
+      "availableSizes": ["6", "7", "7h"],
+      "style": "Genuine Leather",
+      "price": 710.9,
+      "installments": 9,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 1,
+      "sku": 18644119330491312,
+      "title": "Covalli Shoes",
+      "description": "Glance Brown",
+      "availableSizes": ["7", "7H", "8"],
+      "style": "Perfect Pair of Shoes",
+      "price": 1030.9,
+      "installments": 9,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "isFreeShipping": true
+    }
+  ]
+}
